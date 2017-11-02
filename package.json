@@ -1,0 +1,26 @@
+{
+  "name": "beyond-bot-helpdesk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bot",
+    "Framework",
+    "Node",
+    "JavaScript",
+    "FormFlow"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "formflowbotbuilder": "^0.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
